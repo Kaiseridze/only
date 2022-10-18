@@ -10,9 +10,13 @@
     "@types/node": "^16.11.65",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
+    "gh-pages": "^4.0.0",
+    "gsap": "^3.11.3",
+    "node-sass": "^7.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "swiper": "^8.4.4",
     "typescript": "^4.8.4",
     "web-vitals": "^2.1.4"
   },

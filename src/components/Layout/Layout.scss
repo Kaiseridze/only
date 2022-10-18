@@ -1,0 +1,17 @@
+.layout {
+  width: 1440px;
+  margin: 0 auto;
+  height:auto !important;
+  height:100%;
+  min-height:100%;
+  border: 1px solid rgba(66, 86, 122, 0.1);
+  @media (max-width: 1440px) {
+    width: 1024px;
+  }
+  @media (max-width: 821px) {
+    width: 820px;
+  }
+  @media (max-width: 426px) {
+    width: 358px;
+  }
+}
